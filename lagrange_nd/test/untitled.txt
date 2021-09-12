@@ -1,0 +1,30 @@
+# include <cmath>
+# include <cstdlib>
+# include <iostream>
+# include <iomanip>
+# include <stdio.h>
+
+using namespace std;
+
+//# include "../lagrange_nd.hpp"
+
+
+void test3d ();
+
+
+int main()
+{
+
+
+    return 0;
+}
+
+
+test3d(){
+
+
+
+
+}
+
+
